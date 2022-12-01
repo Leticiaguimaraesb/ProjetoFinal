@@ -71,6 +71,7 @@ p{
 
 footer{
     background-color: #2b2b2b;
+    position: fixed;
     bottom:0;
     left:0;
     width: 100%;
